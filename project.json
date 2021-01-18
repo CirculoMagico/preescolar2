@@ -1,0 +1,44 @@
+{
+  "title": "PREESCOLAR2",
+  "date": "18/01/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "preescolar2.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 3,
+  "mediaFiles": 18,
+  "totalSize": 1791682,
+  "files": [
+    "audifono.jpg",
+    "carpeta.jpg",
+    "com.jpg",
+    "compu.jpg",
+    "favicon.ico",
+    "fondo.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "lap.jpg",
+    "laptop.jpg",
+    "mouse.jpg",
+    "nino.jpg",
+    "pantalla.jpg",
+    "papelera-llena.jpg",
+    "papelera-vacia.jpg",
+    "preescolar2.jclic",
+    "preescolar2.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "teclado.jpg"
+  ]
+}
